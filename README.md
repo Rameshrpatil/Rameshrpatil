@@ -30,6 +30,11 @@ A Passionate Software Developer
 <a href="http://www.github.com/rameshrpatil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshrpatil&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/rameshrpatil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshrpatil&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshrpatil&label=Profile%20views&color=0e75b6&style=flat" alt="rameshrpatil" /> </p>
+
+
+
 <!--- 👋 Hi, I’m @Rameshrpatil
 - 👀 I’m interested in aviation and softwares
 - 🌱 I’m currently learning Python and system programming
